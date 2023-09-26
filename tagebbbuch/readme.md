@@ -7,6 +7,7 @@ Führen sie folgende Befehle im Wurzelverzeichnis einmal zum starten aus. Diese 
 
 pip install pre-commit
 pre-commit install
+pip install black
 
 Wenn Sie diese Befehle ausgeführt haben können Sie nun folgenden Befehl ausführen:
 
